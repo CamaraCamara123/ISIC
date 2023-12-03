@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ISICEJBServer"/>
+	<classpathentry kind="lib" path="lib/jboss-client.jar"/>
+	<classpathentry kind="lib" path="lib/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="lib/byte-buddy-1.14.7.jar"/>
+	<classpathentry kind="lib" path="lib/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-6.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/txw2-4.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
